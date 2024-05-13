@@ -1,1 +1,9 @@
-halo ini file txt
+LANGKAH UNTUK SINGKRONISASI DENGAN REPOSITORY GITHUB
+save file
+git add .
+git commit -m "isi pesan"
+git push
+
+
+untuk penamaan REPOSITORY
+-tidak boleh ada titik(.)
