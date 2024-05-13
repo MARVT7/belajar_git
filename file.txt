@@ -7,3 +7,7 @@ git push
 
 untuk penamaan REPOSITORY
 -tidak boleh ada titik(.)
+
+
+git config --global user.name "nama user"
+git config --global user.email "email"
